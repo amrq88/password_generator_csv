@@ -1,5 +1,5 @@
 ```markdown
-# Random Password Generator with CSV
+# Random Password Generator
 
 This is a simple Tkinter-based GUI application for generating random passwords and storing them in a CSV file.
 
@@ -17,21 +17,22 @@ This is a simple Tkinter-based GUI application for generating random passwords a
 - Python 3.x
 - Install required packages using the following command:
 
-
+  ```bash
   pip install -r requirements.txt
+  ```
 
 ### Usage
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/random-password-generator.git
+   git clone https://github.com/amrq88/password_generator_csv.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd random-password-generator
+   cd password_generator_csv
    ```
 
 3. Run the application:
@@ -71,6 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to contribute and open issues if you encounter any problems or have suggestions for improvements.
 ```
 
-Replace "your-username" with your GitHub username in the clone URL. Also, make sure to include a license file (e.g., `LICENSE`) with the appropriate license text if you haven't already.
-
-This README provides a brief overview of your project, instructions for getting started, information on customization, license details, and acknowledgment of third-party libraries used. You can customize it further based on the specifics of your project.
+Replace "amrq88" with your actual GitHub username. Adjust the content as needed for your project.
