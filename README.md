@@ -17,9 +17,8 @@ This is a simple Tkinter-based GUI application for generating random passwords a
 - Python 3.x
 - Install required packages using the following command:
 
-  ```bash
+
   pip install -r requirements.txt
-  ```
 
 ### Usage
 
