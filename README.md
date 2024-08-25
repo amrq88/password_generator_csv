@@ -71,5 +71,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to contribute and open issues if you encounter any problems or have suggestions for improvements.
 ```
-
-Replace "amrq88" with your actual GitHub username. Adjust the content as needed for your project.
