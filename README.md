@@ -70,4 +70,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [password_generator](https://pypi.org/project/password-generator/) - Library for generating random passwords.
 
 Feel free to contribute and open issues if you encounter any problems or have suggestions for improvements.
-```
